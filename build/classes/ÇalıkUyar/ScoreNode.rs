@@ -1,0 +1,2 @@
+ÇalıkUyar.ScoreNode
+ÇalıkUyar.ScoreBST
